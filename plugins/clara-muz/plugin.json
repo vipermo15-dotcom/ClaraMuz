@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "clara-muz",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Claude와 ChatGPT(Codex)가 일을 나눠 하고, 하던 일을 메모로 이어받게 해주는 팀 플러그인. / Lets Claude and ChatGPT (Codex) split work and hand over unfinished work through shared notes.",
   "author": {
     "name": "Jay-Hyun",

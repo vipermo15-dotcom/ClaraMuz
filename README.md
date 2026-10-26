@@ -22,7 +22,7 @@
 
 ## How it works
 
-- You install **two skills** (plain written instructions). It is not a program, so it is light and needs no extra tools such as Node.js.
+- You install **three skills** (plain written instructions). It is not a program, so it is light and needs no extra tools such as Node.js.
 - Shared notes are ordinary files on your computer (`~/.clara-muz/memory/`). You can open and edit them in any text editor.
 - To split work, the lead AI calls the other AI's command tool (`codex` or `claude`). If it is missing, **the AI asks "may I install it?" first.**
 
@@ -30,6 +30,7 @@
 |---|---|
 | `clara-muz-team` | "Do this together", "have the other AI review it too", "GPT builds, Claude reviews" |
 | `ai-memory` | "Take a note", "show the shared notes", "write a handoff document" |
+| `clara-muz-image` | "이미지생성", "make an image for an Instagram / Threads / LinkedIn post", "make practice material images" (GPT draws, Claude checks the file) |
 
 ## Use cases
 
